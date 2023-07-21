@@ -1,0 +1,19 @@
+{
+    "name": "firehead996/core",
+    "description": "Description of project core.",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mikołaj Panecki",
+            "email": "mikolaj@wod.guru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FireHead996\\Core\\": "src/"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "4.7.4"
+    }
+}

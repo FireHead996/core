@@ -1,0 +1,6 @@
+/vendor/
+/var/cache/*
+/var/logs/*
+/var/proxies/*
+composer.lock
+/nbproject/*
